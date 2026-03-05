@@ -3,12 +3,7 @@
 Bu proje **Cisco Packet Tracer ortamında DHCP Relay Agent yapılandırmasının nasıl çalıştığını göstermek amacıyla hazırlanmıştır.**
 Farklı ağlarda bulunan istemcilerin başka bir ağda bulunan DHCP sunucusundan IP alabilmesi için **DHCP Relay Agent (ip helper-address)** kullanılmıştır.
 
- 
-
-![DHCP Relay Topoloji](topology.png)
-
   
-
 ## 📌 Topoloji
 
 Projede iki farklı ağ bulunmaktadır:
@@ -110,6 +105,7 @@ Bu proje aşağıdaki konuları öğrenmek için hazırlanmıştır:
 * Gerçek ağ senaryolarına benzer lab ortamı oluşturma
 
 ---
+
 
 
 
