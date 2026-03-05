@@ -105,4 +105,3 @@ Bu proje aşağıdaki konuları öğrenmek için hazırlanmıştır:
 
 ---
 
-⭐ Eğer proje faydalı olduysa repo'ya **star vermeyi unutmayın.**
