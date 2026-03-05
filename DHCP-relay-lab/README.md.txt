@@ -5,7 +5,7 @@ Farklı ağlarda bulunan istemcilerin başka bir ağda bulunan DHCP sunucusundan
 
  
 
-![DHCP Relay Topoloji](./topology.png)
+![DHCP Relay Topoloji](topology.png)
 
   
 
@@ -110,5 +110,6 @@ Bu proje aşağıdaki konuları öğrenmek için hazırlanmıştır:
 * Gerçek ağ senaryolarına benzer lab ortamı oluşturma
 
 ---
+
 
 
